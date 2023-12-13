@@ -59,7 +59,7 @@ open index.html
 
 Similar way to choice and open the `index.html` file directly from browser. 
 
-### Real test with Vercel
+### Test and deployment
 
 Create a new project in [Vercel](https://vercel.com/) with below build commands
 
