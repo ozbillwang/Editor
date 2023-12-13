@@ -47,3 +47,26 @@ Editor is a responsive HTML/CSS/JS code editor that renders what you type in rea
 ## Browser Support
 
 Editor works in all modern web browsers and IE10+.
+
+## Test and deploy
+
+### Local test
+
+On mac, you can run it with simple command
+```
+open index.html
+```
+
+Similar way to choice and open the `index.html` file directly from browser. 
+
+### Real test with Vercel
+
+Create a new project in [Vercel](https://vercel.com/) with below build commands
+
+![image](https://github.com/ozbillwang/Editor/assets/8954908/474498b6-c08e-4c1f-8b2c-9b901c207a4c)
+
+If you own domain name, you can easily set the custom domain on it.
+
+![image](https://github.com/ozbillwang/Editor/assets/8954908/881d10c2-a10f-4c73-b0e6-d6b1139adf35)
+
+the deployment will be auto-triggered every time, you commit the codes to this repo.
