@@ -48,18 +48,7 @@ Editor is a responsive HTML/CSS/JS code editor that renders what you type in rea
 
 Editor works in all modern web browsers and IE10+.
 
-## Test and deploy
-
-### Local test
-
-On mac, you can run it with simple command
-```
-open index.html
-```
-
-Similar way to choice and open the `index.html` file directly from browser. 
-
-### Test and deployment
+## Test and deployment
 
 Create a new project in [Vercel](https://vercel.com/) with below build commands
 
